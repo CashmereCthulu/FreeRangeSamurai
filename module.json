@@ -10,9 +10,9 @@
   "download": "https://github.com/CashmereCthulu/FreeRangeSamurai/archive/master.zip",
   "packs": [
     {
-      "name": "monsters",
-      "label": "Monsters",
-      "path": "./packs/monsters.db",
+      "name": "players",
+      "label": "Players and NPCs",
+      "path": "./packs/players.db",
       "entity": "Actor",
       "module": "FreeRangeSamurai"
     },
@@ -20,6 +20,13 @@
       "name": "items",
       "label": "Items",
       "path": "./packs/items.db",
+      "entity": "Item",
+      "module": "FreeRangeSamurai"
+    },
+    {
+      "name": "kensai",
+      "label": "Kensai Stuff",
+      "path": "./packs/kensai Stuff.db",
       "entity": "Item",
       "module": "FreeRangeSamurai"
     },
@@ -33,7 +40,7 @@
     {
       "name": "scenes",
       "label": "Scenes",
-      "path": "./packs/scenes.db",
+      "path": "./packs/frsscenes.db",
       "entity": "Scene",
       "module": "FreeRangeSamurai"
     },
