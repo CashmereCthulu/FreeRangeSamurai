@@ -1,0 +1,45 @@
+{
+	"name": "FreeRangeSamurai",
+	"title": "Free Range Samurai",
+	"description": "Crap for my Boys Game",
+	"Author": "CashmereCthulu",
+	"version": "1.0",
+	"minimumCoreVersion": "0.4.4",
+	"packs": [
+        {
+            "name": "monsters",
+            "label": "Monsters",
+            "path": "packs/monsters.db",
+            "entity": "Actor",
+            "module": "FreeRangeSamurai",
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "module": "FreeRangeSamurai",
+        },
+        {
+            "name": "tables",
+            "label": "Tables",
+            "path": "packs/tables.db",
+            "entity": "RollTable",
+            "module": "FreeRangeSamurai",
+        },
+        {
+            "name": "scenes",
+            "label": "Scenes",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "module": "FreeRangeSamurai",
+        },
+        {
+            "name": "Journal",
+            "label": "Journal Entries",
+            "path": "packs/journal.db",
+            "entity": "JournalEntry",
+            "module": "FreeRangeSamurai",
+        }
+    ]	
+}
