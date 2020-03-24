@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.4.4",
   "url": "https://github.com/CashmereCthulu/FreeRangeSamurai",
   "manifest": "https://raw.githubusercontent.com/CashmereCthulu/FreeRangeSamurai/master/module.json",
-  "download": "",
+  "download": "https://github.com/CashmereCthulu/FreeRangeSamurai/archive/master.zip",
   "packs": [
     {
       "name": "monsters",
