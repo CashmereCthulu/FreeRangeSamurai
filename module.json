@@ -1,11 +1,13 @@
+// 20200324
+
 {
-	"name": "FreeRangeSamurai",
-	"title": "Free Range Samurai",
-	"description": "Crap for my Boys Game",
-	"Author": "CashmereCthulu",
-	"version": "1.0",
-	"minimumCoreVersion": "0.4.4",
-	"packs": [
+    "name": "FreeRangeSamurai",
+    "title": "Free Range Samurai",
+    "description": "Crap for my Boys Game",
+    "Author": "CashmereCthulu",
+    "version": "1.0",
+    "minimumCoreVersion": "0.4.4",
+    "packs": [
         {
             "name": "monsters",
             "label": "Monsters",
