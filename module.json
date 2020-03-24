@@ -12,35 +12,35 @@
     {
       "name": "monsters",
       "label": "Monsters",
-      "path": "packs/monsters.db",
+      "path": "./packs/monsters.db",
       "entity": "Actor",
       "module": "FreeRangeSamurai"
     },
     {
       "name": "items",
       "label": "Items",
-      "path": "packs/items.db",
+      "path": "./packs/items.db",
       "entity": "Item",
       "module": "FreeRangeSamurai"
     },
     {
       "name": "tables",
       "label": "Tables",
-      "path": "packs/tables.db",
+      "path": "./packs/tables.db",
       "entity": "RollTable",
       "module": "FreeRangeSamurai"
     },
     {
       "name": "scenes",
       "label": "Scenes",
-      "path": "packs/scenes.db",
+      "path": "./packs/scenes.db",
       "entity": "Scene",
       "module": "FreeRangeSamurai"
     },
     {
       "name": "Journal",
       "label": "Journal Entries",
-      "path": "packs/journal.db",
+      "path": "./packs/journal.db",
       "entity": "JournalEntry",
       "module": "FreeRangeSamurai"
     }
