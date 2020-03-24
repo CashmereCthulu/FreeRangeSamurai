@@ -45,11 +45,19 @@
       "module": "FreeRangeSamurai"
     },
     {
-      "name": "Journal",
+      "name": "journal",
       "label": "Journal Entries",
       "path": "./packs/journal.db",
       "entity": "JournalEntry",
       "module": "FreeRangeSamurai"
+    },
+    {
+      "name": "Playlists",
+      "label": "Playlists",
+      "path": "./packs/playlists.db",
+      "entity": "Playlist",
+      "module": "FreeRangeSamurai"
     }
+
   ]	
 }
