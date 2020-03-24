@@ -17,24 +17,10 @@
       "module": "FreeRangeSamurai"
     },
     {
-      "name": "items",
-      "label": "Items",
-      "path": "./packs/items.db",
-      "entity": "Item",
-      "module": "FreeRangeSamurai"
-    },
-    {
       "name": "kensai",
       "label": "Kensai Stuff",
       "path": "./packs/kensaistuff.db",
       "entity": "Item",
-      "module": "FreeRangeSamurai"
-    },
-    {
-      "name": "tables",
-      "label": "Tables",
-      "path": "./packs/tables.db",
-      "entity": "RollTable",
       "module": "FreeRangeSamurai"
     },
     {
@@ -58,6 +44,5 @@
       "entity": "Playlist",
       "module": "FreeRangeSamurai"
     }
-
   ]	
 }
